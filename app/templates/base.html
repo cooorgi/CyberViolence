@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <nav>
+        <a href="/">首页</a>
+        <a href="/charts/xiaohongshu/heat_rank">小红书热度排行</a>
+        <a href="/charts/zhihu/region">知乎地域分布</a>
+        <a href="/charts/bilibili/time">B站时间分布</a>
+    </nav>
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+</body>
+</html>
