@@ -1,0 +1,27 @@
+2024-12-19 16:36:24,452 - INFO - Flask application initialized successfully.
+2024-12-19 16:36:25,572 - INFO - Flask application initialized successfully.
+2024-12-19 16:36:27,533 - INFO - 127.0.0.1 - GET / Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,103 - INFO - 127.0.0.1 - GET /static/js/index.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,108 - INFO - 127.0.0.1 - GET /static/js/echarts.min.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,113 - INFO - 127.0.0.1 - GET /static/js/myMap.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,253 - INFO - 127.0.0.1 - GET /static/css/index.css Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,266 - INFO - 127.0.0.1 - GET /static/images/bg.jpg Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,266 - INFO - 127.0.0.1 - GET /static/images/head_bg.png Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,300 - INFO - 127.0.0.1 - GET /static/js/china.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,301 - INFO - 127.0.0.1 - GET /static/images/lbx.png Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,304 - INFO - 127.0.0.1 - GET /static/images/line(1).png Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,304 - INFO - 127.0.0.1 - GET /static/images/map.png Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,328 - INFO - 127.0.0.1 - GET /static/font/DS-DIGIT.TTF Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,348 - INFO - 127.0.0.1 - GET /static/images/bilibili.png Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,354 - INFO - 127.0.0.1 - GET /static/images/jt.png Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,836 - INFO - 127.0.0.1 - GET /static/js/jquery.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:30,836 - INFO - 127.0.0.1 - GET /static/js/flexible.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:31,622 - INFO - 127.0.0.1 - GET /favicon.ico Status: 404 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:31,646 - INFO - 127.0.0.1 - GET /chrome-extension://fhhdlnnepfjhlhilgmeepgkhjmhhhjkh/js/detector.js Status: 404 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:31,650 - INFO - 127.0.0.1 - GET /static/js/flexible.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:31,652 - INFO - 127.0.0.1 - GET /static/js/jquery.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:31,660 - INFO - 127.0.0.1 - GET /static/js/echarts.min.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:31,662 - INFO - 127.0.0.1 - GET /static/js/index.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:31,666 - INFO - 127.0.0.1 - GET /static/js/china.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:31,666 - INFO - 127.0.0.1 - GET /static/js/myMap.js Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+2024-12-19 16:36:34,968 - INFO - 127.0.0.1 - GET /static/images/xhs.png Status: 200 - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
